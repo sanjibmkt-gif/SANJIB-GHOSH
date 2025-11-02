@@ -1,0 +1,5 @@
+{
+  "name": "Auto-Reply Chatbot",
+  "description": "A smart chatbot powered by Gemini to help you craft the perfect auto-reply for any situation. Describe who contacted you and why, and the AI will generate a suitable response. Please note: this app generates reply content and does not automatically send messages from your phone.",
+  "requestFramePermissions": []
+}
